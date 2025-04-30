@@ -1,1 +1,1 @@
-CIND 119 is designed to give students an overview of big data, state of the practice in analytics, the role of the data scientist, big data analytics in industry verticals, and analytics life-cycle as an end-to-end process.
+
